@@ -26,7 +26,7 @@ Clone o repositório:
 
 bash
 Copiar código
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
+git clone https://github.com/CSSenius/typeCursor.git
 Abra o arquivo index.html em um navegador para visualizar a lista de cursores e seus respectivos exemplos.
 
 🤝 Contribuição
